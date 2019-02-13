@@ -1,0 +1,115 @@
+{
+    "labels": {
+        "brain_coral": {
+            "categorie": "coral",
+            "color": [
+                50,
+                0,
+                0
+            ],
+            "id": 1,
+            "id_categorie": 1,
+            "name": "brain_coral"
+        },
+        "fire_coral": {
+            "categorie": "coral",
+            "color": [
+                100,
+                0,
+                0
+            ],
+            "id": 2,
+            "id_categorie": 1,
+            "name": "fire_coral"
+        },
+        "tube_coral": {
+            "categorie": "coral",
+            "color": [
+                150,
+                0,
+                0
+            ],
+            "id": 3,
+            "id_categorie": 1,
+            "name": "tube_coral"
+        },
+        "sea_rod": {
+            "categorie": "coral",
+            "color": [
+                200,
+                0,
+                0
+            ],
+            "id": 4,
+            "id_categorie": 1,
+            "name": "sea_rod"
+        },
+		"yellow_green_big_lump": {
+            "categorie": "coral",
+            "color": [
+                250,
+                0,
+                0
+            ],
+            "id": 5,
+            "id_categorie": 1,
+            "name": "yellow_green_big_lump"
+        },
+		"sand": {
+            "categorie": "inorganic",
+            "color": [
+                0,
+                100,
+                0
+            ],
+            "id": 6,
+            "id_categorie": 2,
+            "name": "sand"
+        },
+        "sand": {
+            "categorie": "inorganic",
+            "color": [
+                50,
+                100,
+                0
+            ],
+            "id": 7,
+            "id_categorie": 2,
+            "name": "sand"
+        },
+        "rock": {
+            "categorie": "inorganic",
+            "color": [
+                100,
+                100,
+                0
+            ],
+            "id": 8,
+            "id_categorie": 2,
+            "name": "rock"
+        },
+		"algae_rock": {
+            "categorie": "inorganic",
+            "color": [
+                150,
+                100,
+                0
+            ],
+            "id": 9,
+            "id_categorie": 2,
+            "name": "algae_rock"
+        },
+        "fish": {
+            "categorie": "moving_organism",
+            "color": [
+                200,
+                100,
+                0
+            ],
+            "id": 10,
+            "id_categorie": 3,
+            "name": "fish"
+        }
+	}
+}
+       
